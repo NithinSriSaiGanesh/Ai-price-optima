@@ -85,26 +85,6 @@ The system follows a modular and scalable architecture:
 - FastAPI logs
 - PostgreSQL metrics
 
----
-
-## 📍 Milestones
-- Requirements & Data Preparation
-- Data Ingestion Pipeline
-- Exploratory Data Analysis (EDA)
-- Baseline Rule-Based Pricing Engine
-- Advanced ML Model Development
-- Deployment & Dashboard Delivery
-
----
-
-## 🚀 Future Enhancements
-- Real-time competitor price scraping
-- Online learning using reinforcement models
-- Cloud deployment (AWS / GCP)
-- Role-based access control
-
----
-
 ## 👨‍💻 Author
 **Nithin Gopisetty**  
 Electronics Engineering | VLSI Design & Technology  
