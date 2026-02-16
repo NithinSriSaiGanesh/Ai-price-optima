@@ -85,11 +85,6 @@ The system follows a modular and scalable architecture:
 - FastAPI logs
 - PostgreSQL metrics
 
-## 👨‍💻 Author
-**Nithin Gopisetty**  
-Electronics Engineering | VLSI Design & Technology  
-
----
 
 ## 📜 License
 This project is licensed under the **MIT License**.
